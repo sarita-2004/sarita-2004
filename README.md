@@ -12,7 +12,6 @@
 
 ### 🚀 About Me  
 💡 I love crafting interactive UIs and building smooth user experiences.  
-🌱 Currently learning **Next.js & TypeScript**  
 🎯 Goal: Become a top open-source contributor  
 ⚡ Fun fact: I debug with coffee ☕ and music 🎶  
 
@@ -32,19 +31,19 @@
 
 ### 📈 GitHub Stats (Animated)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarita-2004&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarita-2004&show_icons=true&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarita-2004&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarita-2004&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -53,7 +52,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="mailto:yourname@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
 
 ---
@@ -65,4 +63,4 @@
 
 ---
 
-⭐️ *From [Sarita Khatua](https://github.com/your-username)*
+⭐️ *From [Sarita Khatua](https://github.com/sarita-2004)*
