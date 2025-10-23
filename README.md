@@ -1,7 +1,4 @@
 <!-- 🌸 Banner / Header -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="banner" />
-</p>
 
 <h1 align="center">
   👋 Hey there, I'm <span style="color:#FF0000;">Sarita Khatua</span>
@@ -83,11 +80,7 @@
 ### 🧠 Quote of the Day
 > 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider" />
-</p>
 
 <p align="center">
   ⭐ From <a href="https://github.com/sarita-2004" style="color:#FF0000;"><b>Sarita Khatua</b></a>
