@@ -1,21 +1,21 @@
 <!-- Banner / Header -->
 
-<h1 align="center">✨ Hey there, I'm <span style="color:#FACC15;">Sarita Khatua</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | React • Node.js • TailwindCSS • MongoDB</h3>
+<h1 align="center"> Hey there, I'm <span style="color:#FACC15;">Sarita Khatua</span> 👋</h1>
+<h3 align="center"> Full Stack Developer | React • Node.js • TailwindCSS • MongoDB</h3>
 
----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer;React+and+Node+Expert;Loves+Creative+Designs+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 ---
 
-### 🪄 About Me
+### About Me
 <ul>
   <li>SDE @EventsBridge</li>
   <li>B.Tech in Computer Science and Information Technology</li>
   <li> I’m passionate about building **beautiful, responsive web applications**. </li>
   <li> My Goal: Craft seamless user experiences   </li>
   <li> I love bringing creativity to every line of code   </li>
-  <li> Reach me: **saritakhatua578@gmail.com** </li>SWE Intern @EventsBridge
+  <li> Reach me: **saritakhatua578@gmail.com** </li>
 
 
 </ul>
