@@ -8,7 +8,7 @@
   💻 Full Stack Developer | React • Node.js • TailwindCSS • MongoDB
 </h3>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer;React+and+Node+Expert;Loves+Creative+Designs" alt="Typing Animation" />
