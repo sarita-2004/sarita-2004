@@ -1,7 +1,7 @@
 <!-- 🌸 Banner / Header -->
 
 <h1 align="center">
-  👋 Hey there, I'm <span style="color:#FF0000;">Sarita Khatua</span>
+   Hey there, I'm <span style="color:#FF0000;">Sarita Khatua</span>
 </h1>
 
 <h3 align="center">
