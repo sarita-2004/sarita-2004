@@ -2,12 +2,13 @@
 
 <h1 align="center">✨ Hey there, I'm <span style="color:#FACC15;">Sarita Khatua</span> 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | React • Node.js • TailwindCSS • MongoDB</h3>
+
+---
+
 ### 🎬 Dynamic Typing Animation
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Engineer;React+and+Node+Expert;Loves+Creative+Designs+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 ---
-
-
 
 ### 🪄 About Me
 <ul>
